@@ -24,6 +24,9 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text('Github Sample'),
       ),
+      body: Center(
+        child: Text("Buat Test Aja Cuy"),
+      ),
     );
   }
 }
