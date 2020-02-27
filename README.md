@@ -1,6 +1,6 @@
 # test_git
 
-Buat Belajar Git Cuy
+Test Aja
 
 ## Getting Started
 
